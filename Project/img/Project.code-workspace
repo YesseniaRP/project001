@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\Documents\\Ciclo 3\\Pet-Master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pet-Master"
+	}
+}

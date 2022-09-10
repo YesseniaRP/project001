@@ -1,0 +1,22 @@
+body {font-family: 'Alumni Sans Pinstripe', sans-serif;} 
+img{
+    width: 20px;
+    height: 20px;
+}
+.Logo {
+    width :20px;
+
+}
+
+p{
+    color:greenyellow;
+    font-size: 20px;
+    line-height: 20px;
+};
+.azul {
+    color:blue;
+}
+.rojo{
+    color: red;
+
+}
